@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2019-08-29T07:23:57+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/</loc>
+    <lastmod>2019-08-29T07:23:57+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/lutetium/</loc>
+    <lastmod>2019-08-29T07:23:57+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/ytterbium/</loc>
+    <lastmod>2019-08-29T07:23:44+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/thulium/</loc>
+    <lastmod>2019-08-29T07:23:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/erbium/</loc>
+    <lastmod>2019-08-29T07:23:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/holmium/</loc>
+    <lastmod>2019-08-29T07:23:13+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/dysprosium/</loc>
+    <lastmod>2019-08-29T07:23:03+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/terbium/</loc>
+    <lastmod>2019-08-29T07:22:43+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/gadolinium/</loc>
+    <lastmod>2019-08-29T07:22:26+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/europium/</loc>
+    <lastmod>2019-08-29T07:22:11+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/samarium/</loc>
+    <lastmod>2019-08-29T07:21:58+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/promethium/</loc>
+    <lastmod>2019-08-29T07:21:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/neodimium/</loc>
+    <lastmod>2019-08-29T07:21:36+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/praseodimium/</loc>
+    <lastmod>2019-08-29T07:21:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/cerium/</loc>
+    <lastmod>2019-08-29T07:21:04+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/lanthanum/</loc>
+    <lastmod>2019-08-29T07:20:31+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/oganesson/</loc>
+    <lastmod>2019-08-29T07:18:55+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/tennessine/</loc>
+    <lastmod>2019-08-29T07:18:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/livermorium/</loc>
+    <lastmod>2019-08-29T07:18:18+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/moscovium/</loc>
+    <lastmod>2019-08-29T07:18:06+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/flerovium/</loc>
+    <lastmod>2019-08-29T07:17:45+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/nihonium/</loc>
+    <lastmod>2019-08-29T07:17:36+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/coppernicium/</loc>
+    <lastmod>2019-08-29T07:17:23+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/roentgenium/</loc>
+    <lastmod>2019-08-29T07:17:11+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/darmstadtium/</loc>
+    <lastmod>2019-08-29T07:16:57+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/meltnarium/</loc>
+    <lastmod>2019-08-29T07:16:34+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/hassium/</loc>
+    <lastmod>2019-08-29T07:16:20+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/bohrium/</loc>
+    <lastmod>2019-08-29T07:16:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/seaborgium/</loc>
+    <lastmod>2019-08-29T07:15:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/dubnium/</loc>
+    <lastmod>2019-08-29T07:15:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/rutherfordium/</loc>
+    <lastmod>2019-08-29T07:15:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/lawrencium/</loc>
+    <lastmod>2019-08-29T07:14:40+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/nobelium/</loc>
+    <lastmod>2019-08-29T07:14:26+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/mandalelevium/</loc>
+    <lastmod>2019-08-29T07:14:16+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/fermium/</loc>
+    <lastmod>2019-08-29T07:13:56+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/einsteinium/</loc>
+    <lastmod>2019-08-29T07:13:48+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/californium/</loc>
+    <lastmod>2019-08-29T07:13:16+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/berkelium/</loc>
+    <lastmod>2019-08-28T17:42:45+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/curium/</loc>
+    <lastmod>2019-08-28T17:42:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/americium/</loc>
+    <lastmod>2019-08-28T17:42:15+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/plutonium/</loc>
+    <lastmod>2019-08-28T17:42:03+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/neptunium/</loc>
+    <lastmod>2019-08-28T17:41:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/uranium/</loc>
+    <lastmod>2019-08-28T17:41:40+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/protactinium/</loc>
+    <lastmod>2019-08-28T17:41:28+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/thorium/</loc>
+    <lastmod>2019-08-28T17:41:13+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/actinium/</loc>
+    <lastmod>2019-08-28T17:41:06+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/radium/</loc>
+    <lastmod>2019-08-28T17:40:57+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/francium/</loc>
+    <lastmod>2019-08-28T17:40:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/radon/</loc>
+    <lastmod>2019-08-28T17:40:40+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/astatine/</loc>
+    <lastmod>2019-08-28T17:40:30+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/polonium/</loc>
+    <lastmod>2019-08-28T17:40:20+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/bismuth/</loc>
+    <lastmod>2019-08-28T17:39:56+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/lead/</loc>
+    <lastmod>2019-08-28T17:39:44+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/thallium/</loc>
+    <lastmod>2019-08-28T17:39:36+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/mercury/</loc>
+    <lastmod>2019-08-28T17:39:27+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/gold/</loc>
+    <lastmod>2019-08-28T17:39:20+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/platinum/</loc>
+    <lastmod>2019-08-28T17:39:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/iridium/</loc>
+    <lastmod>2019-08-28T17:38:56+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/osmium/</loc>
+    <lastmod>2019-08-28T17:38:48+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/rhenium/</loc>
+    <lastmod>2019-08-28T17:38:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/tungsten/</loc>
+    <lastmod>2019-08-28T17:38:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/tantalum/</loc>
+    <lastmod>2019-08-28T17:38:16+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/hafnium/</loc>
+    <lastmod>2019-08-28T17:36:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/barium/</loc>
+    <lastmod>2019-08-25T21:45:20+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/caesium/</loc>
+    <lastmod>2019-08-25T21:45:09+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/xenon/</loc>
+    <lastmod>2019-08-25T21:44:53+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/iodine/</loc>
+    <lastmod>2019-08-25T21:44:39+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/tellurium/</loc>
+    <lastmod>2019-08-25T21:44:30+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/antimony/</loc>
+    <lastmod>2019-08-25T21:44:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/tin/</loc>
+    <lastmod>2019-08-25T21:44:09+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/indium/</loc>
+    <lastmod>2019-08-25T21:44:02+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/cadmium/</loc>
+    <lastmod>2019-08-25T21:43:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/silver/</loc>
+    <lastmod>2019-08-25T21:40:06+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/paladium/</loc>
+    <lastmod>2019-08-25T21:39:56+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/rhodium/</loc>
+    <lastmod>2019-08-25T21:39:46+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/ruthenium/</loc>
+    <lastmod>2019-08-25T21:39:36+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/technetium/</loc>
+    <lastmod>2019-08-25T21:39:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/molybdenium/</loc>
+    <lastmod>2019-08-25T21:39:06+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/niobium/</loc>
+    <lastmod>2019-08-25T21:38:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/zirconium/</loc>
+    <lastmod>2019-08-25T21:38:34+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/yttrium/</loc>
+    <lastmod>2019-08-25T21:38:24+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/strontium/</loc>
+    <lastmod>2019-08-25T21:38:12+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/rubidium/</loc>
+    <lastmod>2019-08-25T21:37:52+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/krypton/</loc>
+    <lastmod>2019-08-25T18:28:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/bromine/</loc>
+    <lastmod>2019-08-25T18:28:11+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/selenium/</loc>
+    <lastmod>2019-08-25T18:27:58+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/arsenic/</loc>
+    <lastmod>2019-08-25T18:27:45+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/germanium/</loc>
+    <lastmod>2019-08-25T18:27:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/gallium/</loc>
+    <lastmod>2019-08-25T18:27:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/zinc/</loc>
+    <lastmod>2019-08-25T18:27:16+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/copper/</loc>
+    <lastmod>2019-08-25T18:27:07+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/nickel/</loc>
+    <lastmod>2019-08-25T18:26:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/cobalt/</loc>
+    <lastmod>2019-08-25T18:26:51+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/iron/</loc>
+    <lastmod>2019-08-25T18:26:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/manganese/</loc>
+    <lastmod>2019-08-25T18:26:27+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/chromium/</loc>
+    <lastmod>2019-08-25T18:26:15+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/vanadium/</loc>
+    <lastmod>2019-08-25T18:25:48+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/titanium/</loc>
+    <lastmod>2019-08-25T18:25:36+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/scandium/</loc>
+    <lastmod>2019-08-25T18:25:26+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/calcium/</loc>
+    <lastmod>2019-08-25T18:25:16+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/pottasium/</loc>
+    <lastmod>2019-08-25T18:24:36+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/argon/</loc>
+    <lastmod>2019-08-25T16:43:19+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/chlorine/</loc>
+    <lastmod>2019-08-25T16:43:09+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/sulfur/</loc>
+    <lastmod>2019-08-25T16:42:56+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/phosphorus/</loc>
+    <lastmod>2019-08-25T16:42:37+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/silicon/</loc>
+    <lastmod>2019-08-25T16:42:24+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/aluminium/</loc>
+    <lastmod>2019-08-25T16:42:11+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/magnesium/</loc>
+    <lastmod>2019-08-25T16:42:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/sodium/</loc>
+    <lastmod>2019-08-25T16:41:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/neon/</loc>
+    <lastmod>2019-08-25T15:33:07+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/fluorine/</loc>
+    <lastmod>2019-08-25T15:32:55+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/oxygen/</loc>
+    <lastmod>2019-08-25T15:32:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/nitrogen/</loc>
+    <lastmod>2019-08-25T15:32:27+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/carbon/</loc>
+    <lastmod>2019-08-25T15:23:05+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/beryllium/</loc>
+    <lastmod>2019-08-24T17:56:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/boron/</loc>
+    <lastmod>2019-08-24T17:56:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/helium/</loc>
+    <lastmod>2019-08-24T17:56:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/hydrogen/</loc>
+    <lastmod>2019-08-24T17:56:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/elements/lithium/</loc>
+    <lastmod>2019-08-24T17:56:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url>
+  
+</urlset>

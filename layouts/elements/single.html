@@ -1,0 +1,67 @@
+{{ define "title" }}
+{{ .Params.title }}
+{{ end }}
+{{ define "main" }}
+<div class="notification has-text-white b2">
+
+
+    <div class="container">
+
+        <div class="card is-horizontal">
+            <div class="card-image">
+                <figure class="image is-square">
+                    <img class="c3" src="/images/{{.Params.imgurl}}" alt="">
+                </figure>
+                <a href="/index.html">Back</a>
+            </div>
+            <div class="card-stacked">
+                <div class="card-content">
+                    <div class="media-content">
+                        <h1 class="title is-1 has-text-centered ">{{ .Params.title }}</h1>
+                    </div>
+                    <br /> Element Name: <strong class="has-text-link"> {{.Params.title}} </strong>
+                    <br /> Latin Name: <strong class="has-text-link"> {{.Params.LatinName}} </strong>
+                    <br /> Atomic Number: <strong class="has-text-link"> {{.Params.atomicnumber}} </strong>
+                    <br /> Atomic Weight: <strong class="has-text-link"> {{ .Params.AtomicWeight }} u </strong>
+                    <br /> Is a: <strong class="has-text-link"> {{.Params.classification}} </strong>
+                    <br /> State of the element: <strong class="has-text-link"> {{.Params.stateAtRoomTemp}}
+                    </strong>
+                    <br /> About: <strong class="has-text-link"> {{.Params.about}}
+                        </strong>
+                    <div class="columns Number">
+                        <div class="column numberof">
+                            <h1>Electrons</h1>
+                            <strong class="has-text-link">{{.Params.NumberOfElectrons}}</strong>
+                        </div>
+                        <div class="column numberof">
+                            <h1>Protons</h1>
+                            <strong class="has-text-link">{{.Params.NumberOfProtons}}</strong>
+                        </div>
+                        <div class="column numberof">
+                            <h1>Neutrons</h1>
+                            <strong class="has-text-link">  <h3>{{.Params.NumberOfNeutrons}}</strong>
+                        </div>
+                    </div>
+
+                    <br /> Discoverer: <strong class="has-text-link"> {{.Params.DiscoveredBy}} </strong>
+                    <br /> Discovered in: <strong class="has-text-link"> {{.Params.DiscoveredIn}} </strong>
+
+                    <footer class="card-footer">
+                        <div class="card-footer-item has-text-left">
+                            <a href="{{.Params.Link}}">Wanna Know More? </a>
+                        </div>
+                    </footer>
+                </div>
+            </div>
+        </div>
+
+      
+
+
+
+
+
+    </div>
+</div>
+<p>{{ .Content }} </p>
+{{ end }}

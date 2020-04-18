@@ -1,0 +1,5 @@
+<div class="col {{.Get "type" }}">
+    <a href="/elements/{{.Get "link" }}"> <strong class="has-text-black"> {{.Get "symbol" }} </strong></a>
+    <br />
+    <div class="is-hidden-touch">{{.Get "link" | humanize }}</div>
+</div>
