@@ -1,8 +1,7 @@
-# Periodic Table
-
+# [Periodic Table](https://scientific-boats.surge.sh/)
 This is a static website that displays the periodic table of elements using [Bulma CSS](https://bulma.io/) and [Hugo](https://gohugo.io/). It uses Hugo's features such as archetypes, data files, shortcodes and templates to reduce redundancy and make the code more maintainable.
 
-([periodic-table.png](https://www.virinchi.me/image/posts/periodic-table.webp))
+![periodic-table.png](https://periodic-table-photo.surge.sh/periodic-table.webp)
 
 ## How to run the project
 
@@ -16,7 +15,7 @@ Follow these steps to set up the project after cloning from git:
 
 ## How to use the website
 
-The website has a simple interface that allows you to view the periodic table of elements. Visit the site at [Periodic Table](https://scientific-boats.surge.sh/)You can click on an element to go to its detail page, where you can see more information such as its category, group, period, block, electron configuration and properties.
+The website has a simple interface that allows you to view the periodic table of elements. Visit the site at [Periodic Table](https://scientific-boats.surge.sh/). You can click on an element to go to its detail page, where you can see more information such as its category, group, period, block, electron configuration and properties.
 
 ## How the project works
 
