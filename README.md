@@ -2,7 +2,7 @@
 
 This is a static website that displays the periodic table of elements using [Bulma CSS](https://bulma.io/) and [Hugo](https://gohugo.io/). It uses Hugo's features such as archetypes, data files, shortcodes and templates to reduce redundancy and make the code more maintainable.
 
-![Periodic Table](periodic-table.png)
+([periodic-table.png](https://www.virinchi.me/image/posts/periodic-table.webp))
 
 ## How to run the project
 
